@@ -8,6 +8,8 @@ The Conviva JavaScript PlayStation Trilithium module is built on top of <a href=
 include ('<PATH>/conviva-core-sdk.js');
 include ('<PATH>/conviva-playstation-trilithium-module.js');
 ```
+## Supported Framework Versions
+2.4.0
 
 ## Note:
 * Refer https://community.conviva.com/ for integration guidelines.
