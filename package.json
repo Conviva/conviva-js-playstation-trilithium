@@ -1,0 +1,28 @@
+{
+  "name": "@convivainc/conviva-js-playstation-trilithium",
+  "version": "4.0.2",
+  "description": "Conviva PlayStation Trilithium module",
+  "main": "conviva-playstation-trilithium-module.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Conviva/conviva-js-playstation-trilithium.git"
+  },
+  "keywords": [
+    "Conviva",
+    "trilithium",
+    "module",
+    "video"
+  ],
+  "author": "Conviva Inc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Conviva/conviva-js-playstation-trilithium/issues"
+  },
+  "homepage": "https://github.com/Conviva/conviva-js-playstation-trilithium#readme",
+  "dependencies": {
+    "@convivainc/conviva-js-coresdk": "^4.4.3"
+  }
+}
