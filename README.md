@@ -7,15 +7,6 @@ Conviva PlayStation Trilithium module auto-detects events emitted by Video playe
 npm install @convivainc/conviva-js-playstation-trilithium --save
 ```
 
-## Usage
-
-```
-import Conviva from '@convivainc/conviva-js-coresdk';
-import ConvivaModule from '@convivainc/conviva-js-playstation-trilithium';
-or
-const Conviva = require('@convivainc/conviva-js-coresdk');
-const ConvivaModule = require('@convivainc/conviva-js-playstation-trilithium');
-```
 ## Supported Framework Versions
 2.4.0
 
